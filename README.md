@@ -31,4 +31,9 @@
 ## <br> На 7 баллов:
 ### 1) В программе осуществлен ввод и вывод через файлы(с учетом того, что в консоль данные уже выведены)
 ### ссылки на входные и соответсвующие им выходные файлы(число наибольшего интервала снижено с 999999999 до 999999 для простоты и наглядноти):
-* input1.txt
+* [input1.txt](https://github.com/CehhGhost/ABC4/blob/main/files/input1.txt)
+* [output1.txt](https://github.com/CehhGhost/ABC4/blob/main/files/output1.txt)
+* [input2.txt](https://github.com/CehhGhost/ABC4/blob/main/files/input2.txt)
+* [output2.txt](https://github.com/CehhGhost/ABC4/blob/main/files/output2.txt)
+* [input3.txt](https://github.com/CehhGhost/ABC4/blob/main/files/input3.txt)
+* [output3.txt](https://github.com/CehhGhost/ABC4/blob/main/files/output3.txt)
