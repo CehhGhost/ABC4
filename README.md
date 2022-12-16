@@ -26,4 +26,4 @@
 * Затем встает в ожидание остальных чекеров
 * Если еще есть числа для проверки, то цикл снова раздает числа чекерам(иначе прогрмма завершается)
 ## <br> На 6 баллов:
-![System](https://github.com/CehhGhost/ABC3/blob/main/TestPic/Test1.png)
+![System](https://github.com/CehhGhost/ABC4/blob/main/System.png)
